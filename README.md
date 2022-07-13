@@ -5,7 +5,7 @@ The goal of this coding task is to give us an idea of your coding and problem so
 Please give this your best effort and let us know if you have any questions along the way. You should allocate at least a couple of hours to the task. It will require you to be familiar with the basics of Vue.js or similar component based frameworks (like React), and basic API development. You can use whatever tools or materials you need to assist you (Google, Framework Documentation, Stack Overflow, etc).
 
 Please follow the instructions below for requirements, setup, and submitting your files. 
-
+f.,msdnf.asdmnf.,asmfn.,asdmfn.,amdfn.,amsdfn.,asmdnfklkjdsahka
 
 ## Getting Started
 
